@@ -1,0 +1,24 @@
+site:
+  title: Bdrive manual
+  # the 404 page and sitemap files only get generated when the url property is set
+  url: https://support.bdrive.cloud/
+  start_page: admin::index.adoc
+content:
+  sources:
+    # We using HEAD as a branch in order for Anotra to locally checkout the version of the sources instead of pulling from our repo
+    # For more information visit: https://gitlab.com/antora/antora/-/issues/284
+    - url: .
+      start_path: desktop
+      branches: HEAD
+#    - url: .
+#      start_path: web
+#      branches: HEAD
+    - url: .
+      start_path: admin
+      branches: HEAD
+ui:
+  bundle:
+    url: ./antora-ui-bdrive.zip
+
+runtime:
+  fetch: true

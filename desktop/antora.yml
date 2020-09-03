@@ -1,0 +1,6 @@
+name: desktop
+title: Bdrive Desktop-App
+version: 'DE'
+start_page: ROOT:index.adoc
+nav:
+  - modules/ROOT/nav.adoc

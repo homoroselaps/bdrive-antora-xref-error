@@ -1,0 +1,21 @@
+{
+  "name": "bdrive-antora",
+  "version": "1.0.0",
+  "description": "This repo uses ASCII docs to generate Manuals for the Bdrive Product",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket.nexenio.com:7999/cr/bdrive-antora.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antora/cli": "^2.3.3",
+    "@antora/site-generator-default": "^2.3.3"
+  }
+}

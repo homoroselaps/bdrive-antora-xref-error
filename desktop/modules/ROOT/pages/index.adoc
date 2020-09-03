@@ -1,0 +1,7 @@
+Title
+=====
+
+== Was ist Bdrive?
+
+Bdrive ist ein innovatives Cloud-Speichersystem, mit dessen Hilfe Nutzer in Unternehmen oder Organisationen Daten sicher mit der Cloud synchronisieren und gemeinschaftlich mit ihren Kollegen nutzen können.
+

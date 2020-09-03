@@ -1,0 +1,3 @@
+* xref:index.adoc[Desktop Project Index]
+
+* xref:admin::index.adoc[This link works]

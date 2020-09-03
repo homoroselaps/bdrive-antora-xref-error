@@ -1,0 +1,20 @@
+Systemanforderungen und Hinweise
+================================
+ Alice Hohenberg <alice.hohenberg@bdr.de>
+:copyright: (c) Bundesdruckerei GmbH, 2020. All rights Reserved.
+:imagesdir: ../images
+:experimental:
+
+== Systemanforderungen
+
+* Windows 7 und 10, MacOSX 10.13.+
+* mindestens 2 GB RAM
+* Dateisysteme: NTFS und APFS
+
+== Hinweise zur Benutzung
+
+* Sichern Sie Ihre Zugangsdaten.
+* Sorgen Sie dafür, dass der Bdrive Client-Arbeitsplatz frei von nicht
+  vertrauenswürdiger Soft- und Hardware ist, die das Betriebssystem, die andere
+  Software oder die Hardware beeinträchtigen kann.
+* Schützen Sie Ihr Betriebssystem mit einem Antivirusprogramm.
